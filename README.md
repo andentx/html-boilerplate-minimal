@@ -11,7 +11,7 @@
 -   Minimal HTML file
 -   Minimal meta data
 -   Minimal CSS Reset file
--   Placeholder CSS and JavaScript files
+-   Empty CSS and JavaScript files
 -   .gitignore file
 
 <br>
@@ -89,22 +89,6 @@
             margin: 0;
             padding: 0;
         }
-
-<br>
-
--   Placeholder CSS and JavaScript files
-
-        /* style.css */
-
-        h1 {
-            color: darkgreen;
-        }
-
-    <br>
-
-        // scripts.js
-
-        console.log('hello from scripts.js');
 
 <br>
 
