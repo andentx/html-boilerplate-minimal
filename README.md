@@ -5,6 +5,15 @@
 
 <br>
 
+## Purpose
+
+-   To use as a template to quickly get started on a new idea
+-   To test HTML, CSS and JavaScript in the browser instantly by skipping the setup steps
+-   To have a published document to refer to and update over time
+-   To only include the bare minimum required for running in the browser, limiting distractions and setup
+
+<br>
+
 ## Includes
 
 -   Minimal project directory structure
