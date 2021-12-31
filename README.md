@@ -90,13 +90,14 @@
         p,
         ol,
         ul,
-        li {
-            border-style: none;
+        li,
+        a {
             box-sizing: border-box;
-            font-style: normal;
-            list-style: none;
             margin: 0;
             padding: 0;
+            border-style: none;
+            list-style: none;
+            text-decoration: none;
         }
 
 <br>
