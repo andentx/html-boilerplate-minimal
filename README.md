@@ -42,8 +42,9 @@
 
 -   Minimal HTML file
 
-        <!DOCTYPE html>
-        <html lang="en">
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
         <head>
             <meta charset="UTF-8" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -58,7 +59,8 @@
 
             <script src="js/scripts.js"></script>
         </body>
-        </html>
+    </html>
+    ```
 
 <br>
 
@@ -66,39 +68,45 @@
 
     -   Character encoding - required for consistent special characters
 
-              <meta charset="UTF-8" />
+        ```html
+        <meta charset="UTF-8" />
+        ```
 
     <br>
 
     -   Viewport info - sets the viewport to the width of the screen, and sets the default zoom
 
-            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        ```html
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        ```
 
 <br>
 
 -   Minimal CSS Reset file
 
-        html,
-        body,
-        div,
-        h1,
-        h2,
-        h3,
-        h4,
-        h5,
-        h6,
-        p,
-        ol,
-        ul,
-        li,
-        a {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            border-style: none;
-            list-style: none;
-            text-decoration: none;
-        }
+    ```css
+    html,
+    body,
+    div,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    ol,
+    ul,
+    li,
+    a {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        border-style: none;
+        list-style: none;
+        text-decoration: none;
+    }
+    ```
 
 <br>
 
