@@ -1,5 +1,13 @@
 html,
 body,
+header,
+main,
+menu,
+nav,
+footer,
+section,
+article,
+pre,
 div,
 h1,
 h2,
@@ -16,6 +24,7 @@ a {
     margin: 0;
     padding: 0;
     border-style: none;
+    font-style: normal;
     list-style: none;
     text-decoration: none;
 }
