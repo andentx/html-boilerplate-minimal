@@ -1,5 +1,6 @@
 html,
 body,
+button,
 header,
 main,
 menu,
@@ -20,11 +21,13 @@ ol,
 ul,
 li,
 a {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    border-style: none;
-    font-style: normal;
-    list-style: none;
-    text-decoration: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border-style: none;
+  font-style: normal;
+  font-weight: normal;
+  list-style: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
 }
